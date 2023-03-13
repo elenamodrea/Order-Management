@@ -1,0 +1,2 @@
+id idClient idProduct numClient numeProdus cantitate 
+5 1 1 Alex inghetata 1
